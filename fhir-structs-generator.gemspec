@@ -4,7 +4,7 @@ require_relative "lib/fhir/structs/generator/version"
 
 Gem::Specification.new do |spec|
   spec.name = "fhir-structs-generator"
-  spec.version = Fhir::Structs::Generator::VERSION
+  spec.version = FHIR::Structs::Generator::VERSION
   spec.authors = ["Alberto Colón Viera"]
   spec.email = ["aacv@albertico.dev"]
 

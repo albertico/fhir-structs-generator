@@ -1,4 +1,4 @@
-# Fhir::Structs::Generator
+# FHIR::Structs::Generator
 
 TODO: Delete this and the text below, and describe your gem
 
@@ -32,4 +32,4 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 
 ## Code of Conduct
 
-Everyone interacting in the Fhir::Structs::Generator project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/fhir-structs-generator/blob/main/CODE_OF_CONDUCT.md).
+Everyone interacting in the FHIR::Structs::Generator project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/fhir-structs-generator/blob/main/CODE_OF_CONDUCT.md).

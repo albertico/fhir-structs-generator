@@ -2,7 +2,7 @@
 
 require_relative "generator/version"
 
-module Fhir
+module FHIR
   module Structs
     module Generator
       class Error < StandardError; end
