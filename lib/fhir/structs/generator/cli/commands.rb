@@ -7,6 +7,7 @@ module FHIR::Structs::Generator
     extend Dry::CLI::Registry
 
     # See the 'commands/*.rb' directory for the defined CLI commands.
+    
     register "core", FHIR::Structs::Generator::CLI::Commands::Core
   end
 end

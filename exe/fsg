@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "fhir/structs/generator"
+
+Dry::CLI.new(FHIR::Structs::Generator::CLI::Commands).call
